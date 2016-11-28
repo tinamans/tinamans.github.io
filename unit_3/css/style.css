@@ -1,9 +1,10 @@
 body {
-		background-image: url("https://github.com/tinamans/tinamans.github.io/blob/master/unit_3/images/fire.jpg");
+		background-image: url("https://raw.githubusercontent.com/tinamans/tinamans.github.io/master/unit_3/images/fire.jpg");
+		background-size: cover;	
 }
 
 h1, p {
-	color: gold;
+	color: #000000;
 	font-family: Arial;
 
 }
