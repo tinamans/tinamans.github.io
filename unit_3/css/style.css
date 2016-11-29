@@ -18,6 +18,7 @@ h1, h3 {
 #banner {
 	text-align: right;
 	border: 10px black;
+	object-fit: contain;
 }
 
 #slogan {
