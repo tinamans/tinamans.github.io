@@ -2,21 +2,22 @@ body {
 		background-image: url("../images/back.jpeg");
 		margin: auto;
 		width: 57%;
+		font-family: Arial;
 
 
 }
 
-h1 {
+h1, h3 {
 	color: #000000;
 	font-family: Arial;
 	text-align: right;
-	height: 10px;
+	height: 12px;
 
 }
 
 #banner {
 	text-align: right;
-	border: 3px black;
+	border: 10px black;
 }
 
 #slogan {
