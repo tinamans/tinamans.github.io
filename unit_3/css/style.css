@@ -12,13 +12,8 @@ h1 {
 	text-align: right;
 	height: 10px;
 
+}
 
-}
-#topnav {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
 #banner {
 	text-align: right;
 	border: 3px black;
@@ -30,3 +25,28 @@ h1 {
 	text-align: right;
 	
 }
+
+.topnav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+.topnav li {
+    float: left;
+}
+.topnav li a { 
+    display: block;
+    color: #000000;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav li a:hover {
+    background-color: #A9A9A9;
+}
+
+
+
