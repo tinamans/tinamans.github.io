@@ -9,7 +9,7 @@ body {
 
 }
 
-h1, h3 {
+h1, h3, .contact {
 	color: #000000;
 	font-family: 'Francois One', sans-serif;
 	text-align: right;
@@ -52,7 +52,7 @@ h1, h3 {
     background-color: #A9A9A9;
 }
 
-.main, .contact {
+.main {
 
 	font-family: 'Libre Baskerville', serif;
 }
