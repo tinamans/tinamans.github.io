@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One|Libre+Baskerville');
+
+body {
+		background-image: url("../images/back.jpeg");
+		margin: auto;
+		width: 750px;
+		
+
+
+}
+
+h1, h3 {
+	color: #000000;
+	font-family: 'Francois One', sans-serif;
+	text-align: right;
+	height: 12px;
+
+}
+
+#banner {
+	text-align: right;
+	border: 10px black;
+	object-fit: fill;
+}
+
+#slogan {
+	color: #000000;
+	font-weight: bold;
+	text-align: right;
+	
+}
+
+.topnav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	font-family: 'Francois One', sans-serif;
+	font-weight: bold;
+}
+
+.topnav li {
+    float: left;
+}
+.topnav li a { 
+    display: block;
+    color: #000000;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav li a:hover {
+    background-color: #A9A9A9;
+}
+
+.main, .contact {
+
+	font-family: 'Libre Baskerville', serif;
+}
+
